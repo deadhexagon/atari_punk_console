@@ -1,0 +1,26 @@
+v 20130925 2
+V 100 100 100 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+V 1000 100 100 3 0 0 0 -1 -1 0 -1 -1 -1 -1 -1
+A 550 100 100 45 270 3 0 0 0 -1 -1
+L 50 100 150 100 3 10 0 0 -1 -1
+L 950 100 1050 100 3 10 0 0 -1 -1
+L 1000 150 1000 50 3 10 0 0 -1 -1
+L 200 100 450 100 3 0 0 0 -1 -1
+L 600 100 900 100 3 0 0 0 -1 -1
+V 550 100 50 3 0 0 0 -1 -1 1 -1 -1 -1 -1 -1
+T 375 350 8 10 0 0 0 0 1
+graphical=1
+T 375 550 8 10 0 0 0 0 1
+description=Switched power - center positive
+T 375 750 8 10 0 0 0 0 1
+author=Steven Cook <visage@deadhexagon.com>
+T 375 950 8 10 0 0 0 0 1
+use-license=unlimited
+T 375 1150 8 10 0 0 0 0 1
+dist-license=WTFPL
+T 575 350 8 10 0 1 0 0 1
+footprint=none
+T 675 250 8 10 0 1 0 0 1
+numslots=0
+T 575 350 8 10 0 1 0 0 1
+device=none

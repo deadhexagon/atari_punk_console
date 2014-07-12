@@ -1,0 +1,16 @@
+PWR_SW	D2-2 S1-2 
+unnamed_net11	J1-2 B1-2 
+Vcc	D2-1 J1-1 B1-1 
+unnamed_net10	D1-1 R7-2 
+unnamed_net9	SPK1-1 R6-2 
+unnamed_net8	C3-2 R4-1 
+unnamed_net7	R6-1 R5-2 R4-2 
+unnamed_net6	C3-1 U1-9 
+unnamed_net5	U1-11 
+unnamed_net4	C2-1 R2-1 U1-12 U1-13 
+GND	J1-3 C2-2 D1-2 C1-1 SPK1-2 R6-3 R5-1 U1-7 
+OUT A	U1-8 U1-5 
+SUPPLY	U1-10 S1-1 R7-1 R2-2 R1-2 R2-3 R1-1 U1-14 U1-4 
+unnamed_net3	U1-3 
+unnamed_net2	C1-2 U1-6 R3-1 U1-2 
+unnamed_net1	R1-3 R3-2 U1-1 
